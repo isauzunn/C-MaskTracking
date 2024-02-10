@@ -1,0 +1,15 @@
+C:\Users\isa\source\repos\WorkAround\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\isa\source\repos\WorkAround\Business\bin\Debug\net5.0\Business.dll
+C:\Users\isa\source\repos\WorkAround\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\isa\source\repos\WorkAround\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\isa\source\repos\WorkAround\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\isa\source\repos\WorkAround\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\Business.dll
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\isa\source\repos\WorkAround\Business\obj\Debug\net5.0\Business.pdb
